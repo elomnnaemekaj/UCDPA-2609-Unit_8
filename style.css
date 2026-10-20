@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+header,
+main,
+section,
+aside,
+footer {
+    border: 2px solid #ccc;
+    padding: 1rem;
+    margin: 0.5rem;
+}
